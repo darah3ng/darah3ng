@@ -2,18 +2,18 @@
 
 I'm a **Full Stack Developer** & **Blockchain Engineer**! Whether it's a distributed system, a slick front-end, or a smart contract - if it's code, I'm on it. And if it’s broken, I’m definitely *fixing it*. 🔧
 
-> Lately, I’ve been **lifting heavy** (both in the gym and in code) 💪🔐
+Lately, I’ve been **lifting heavy** (both in the gym and in code)
 
 ### 🌍 From Australia to Beyond!
-Currently in Brisbane, but will be relocated **to the UK in January 2025**!🌍
+Currently in Brisbane, but will be relocated **to the UK in January 2025**!
 
 ## ⚒️ Current Toolkit
 Here’s a taste:
 
-- **Frontend**: Next.js, TypeScript 🖥️
-- **Backend**: Node.js, NestJS, Go 🛠️
-- **Blockchain**: Solidity, Hardhat, Foundry 🚀
-- **Tools**: Docker, Artillery, Grafana 📊
+- **Frontend**: Next.js, TypeScript
+- **Backend**: Node.js, NestJS, Go
+- **Blockchain**: Solidity, Hardhat, Foundry
+- **Tools**: Docker, Artillery, Grafana
 
 ## 🌟 Fun Me About Facts
 - 🍔 **Foodie**: Coding by day, experimenting with **kale and steak** by night. (Shoutout to cocobella coconut yoghurt, cacao nibs, and blueberries for making mornings interesting!)
@@ -21,10 +21,10 @@ Here’s a taste:
 - 🛠️ **Problem Solver**: More like problem solver under pressure.
 - 📈 **Amateur Stock Strategist**: Trying to make my money work as hard as my code does.
 
-## 📚 What I'm Learning
+## 📚 Brain Fuel: Stuff I'm Currently Absorbing
 At the moment, I'm all about:
-- **Distributed Systems** – diving into **eventual consistency** and **system design pattern**.
-- **Blockchain Security** – brushing up on the essentials for a job in blockchain tech, because security = 💸.
+- **Distributed Systems** – diving into **system design**.
+- **Blockchain Security** – brushing up on the essentials in blockchain tech, because security = 💸.
 - **Career Growth** – Tackling career growth with daily practices on **mindfulness, resilience**, and handling **ego** and **insecurities**. Yep, I'm in it for the long game.
 
 ## 🚀 Featured Projects
