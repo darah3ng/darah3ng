@@ -58,5 +58,5 @@ ___
 <br />
 
 If you're looking to talk **tech, travel, or just want to say hi**:
-- **LinkedIn**: [Dara Heng](https://www.linkedin.com/in/daraheng) 🔗
+- **LinkedIn**: [Dara Heng](https://www.linkedin.com/in/dara-heng-2b4a21133)
 </details>
