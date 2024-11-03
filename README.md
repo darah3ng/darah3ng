@@ -1,8 +1,10 @@
 # 👋 Howdy! I'm Dara
 
-I'm a **Full Stack Developer** & **Blockchain Engineer**! Whether it's a distributed system, a slick front-end, or a smart contract - if it's code, I'm on it. And if it’s broken, I’m definitely *fixing it*. 🔧
+I'm a Full Stack Developer & Blockchain Engineer!
 
-Lately, I’ve been **lifting heavy** (both in the gym and in code)
+Whether it's a distributed system, a slick front-end, or a smart contract. If it's code, I'm on it. And if it’s broken, I’m definitely *fixing it*. 🔧
+
+Lately, I’ve been *lifting heavy* (both in the gym and in code)
 
 ### 🌍 From Australia to Beyond!
 Currently in Brisbane, but will be relocated **to the UK in January 2025**!
