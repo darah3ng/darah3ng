@@ -1,13 +1,10 @@
-# 👋 Hey there! I'm Dara Heng (a.k.a darah3ng)
+# 👋 Howdy! I'm Dara
 
-Welcome to my GitHub! If you're here, you must be someone who loves **tech**, **fun**, and a hint of **mystery**. So, buckle up, because I’m about to give you a virtual tour of my coding universe! 🌌
+I'm a **Full Stack Developer** & **Blockchain Engineer**! So, Buckle up because I’m about to give you a virtual tour of my coding universe! 🌌
 
-## 🧑‍💻 About Me
-I'm a **Full Stack Developer** & **Blockchain Engineer** with over 6 years of experience so far in building cool stuff! I'm also your go-to guy for **blockchain magic**.
+> Lately, I’ve been **lifting heavy** (both in the gym and in code) 💪🔐
 
-Lately, I’ve been **lifting heavy** (both in the gym and in code) 💪🔐
-
-### 🌍 From Brisbane to Beyond!
+### 🌍 From Australia to Beyond!
 Currently in Brisbane, but will be relocated **to the UK in January 2025**!🌍
 
 ## ⚒️ Current Toolkit
@@ -33,8 +30,9 @@ At the moment, I'm all about:
 - **Career Growth** – Tackling career growth with daily practices on **mindfulness, resilience**, and handling **ego** and **insecurities**. Yep, I'm in it for the long game.
 
 ## 🚀 Featured Projects
+[🔐 **MultiSigAccount**](https://github.com/darah3ng/multi-sig-account) – For when "just trust me" isn't enough.
 [💼 **CryptoWallet**](https://github.com/darah3ng/CryptoWallet) – Your ultimate web3 wallet solution.  
-[🎉 **Hero NFTs Minter**](https://github.com/darah3ng/Hero-NFTs-Minter) – Become a hero, one NFT at a time!  
+[🎉 **Hero NFTs Minter**](https://github.com/darah3ng/Hero-NFTs-Minter) – Become a hero, one NFT at a time!
 [😂 **ComedyDAO**](https://github.com/darah3ng/ComedyDAO) – Where blockchain meets humor.
 
 Check out more on [**daraheng.com**](https://daraheng.com) or my GitHub profile below!
