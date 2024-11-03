@@ -1,4 +1,4 @@
-## 👋 Howdy! I'm Dara
+## Howdy 👋
 
 I'm a Full Stack Developer & Blockchain Engineer!
 
