@@ -16,7 +16,7 @@ Here’s a taste:
 - **Tools**: Docker, Artillery, Grafana
 
 ## 🌟 Fun Me About Facts
-- 🍔 **Foodie**: Coding by day, experimenting with **kale and steak** by night. (Shoutout to cocobella coconut yoghurt, cacao nibs, and blueberries for making mornings interesting!)
+- 🍏 **Gut Health Guru (in Training)**: Navigating the wild world of probiotics, and fiber supplements. Because a happy gut means a happy... well, everything.
 - 🏋️ **Gym Buff**: ABCG = Aways Be Chasing Gains.
 - 🛠️ **Problem Solver**: More like problem solver under pressure.
 - 📈 **Amateur Stock Strategist**: Trying to make my money work as hard as my code does.
